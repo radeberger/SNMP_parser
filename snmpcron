@@ -1,0 +1,8 @@
+#!/bin/bash
+
+/home/snmpcollect
+/home/parser.py
+/home/parsearp.py
+/home/trigger.py
+/home/arptoalert.py
+cp  -f /home/alertarp.html /var/www/html/alert.html 
